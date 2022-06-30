@@ -1,0 +1,105 @@
+/* .bg {
+    background-color: aquamarine;
+} */
+
+body {
+    margin: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.my-container {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.my-lable {
+    font-family: Montserrato;
+}
+
+#title {
+    margin-top: 50px;
+    padding-left: 110px;
+    padding-right: 110px
+}
+
+.my-brand {
+    font-size: 15px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Merriweather;
+}
+
+.wel-header {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: #ffff;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: ubuntu mono;
+}
+
+.form-group {
+    margin: auto;
+    text-align: center;
+}
+
+.mt-50 {
+    margin-top: 100px;
+}
+
+#canvas {
+    border: 2px solid rgb(138, 26, 26);
+}
+
+#third {
+    background: url("https://d1263yrto77i5b.cloudfront.net/1.0.43/assets/images/pages/SellCar/assets/sell_landing_back_desktop.jpg") 50% 0 no-repeat fixed;
+    color: white;
+    height: 100%;
+    width: 100%;
+
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+
+}
+
+#download {
+    background-color: #FfBE7BFF;
+    text-align: center;
+    color: #fff;
+    padding-top: 7%;
+    padding-bottom: 5%;
+  }
+.social-icon {
+    margin: 20px 10px;
+  }
+#footer {
+    padding:0 0 3% 0;
+    text-align: center;
+    background-color:#FfBE7BFF;
+    width: 100%;
+    margin-bottom: -100px;
+}
+
+.feature-tag {
+    padding-top: 50px;
+}
+
+
+
+.feature-box {
+    text-align: center;
+    padding: 4.5%;
+}
